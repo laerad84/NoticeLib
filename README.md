@@ -14,9 +14,13 @@ status
 -git status
 
 update repo
+
 git push origin git@github.com:laerad84/NoticeLib.git
 
 common update
+
 git add <edited filename>
+
 git commit -m ""
+
 git push origin main
